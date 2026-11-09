@@ -1,0 +1,12 @@
+asset_id,company,ticker,asset_name,latitude,longitude,crs,loc_precision_m,site_radius_m,valid_from,valid_to,address
+lpp-ctpark-buw-lpp,LPP,LPP,"Centrum dystrybucyjne LPP, CTPark Bucharest West",44.475520,25.817920,EPSG:4326,200,650,2025-01-01,,"CTPark Bucharest West, A1 km 23, Bolintin-Deal, Giurgiu, Romania"
+debica-factory,Firma Oponiarska Dębica,DBC,Fabryka opon Dębica,50.044000,21.388000,EPSG:4326,200,850,1939-01-01,,"Dębica, ul. 1 Maja 1"
+tarczynski-ujezdziec,Tarczyński,TAR,Zakład produkcyjny Ujeździec Mały,51.427000,17.103000,EPSG:4326,200,700,1990-01-01,,"Ujeździec Mały 80, 55-100 Trzebnica"
+pfleiderer-baruth,Pfleiderer Group,PFL,Fabryka MDF/HDF Baruth,52.075603,13.515886,EPSG:4326,30,900,1997-01-01,,"An der Birkenpfuhlheide 3, 15837 Baruth/Mark, Germany"
+wielton-wielun-z1,Wielton,WLT,Zakład nr 1 Wieluń,51.233000,18.584600,EPSG:4326,200,600,1996-01-01,,"Wieluń, ul. Fabryczna 8"
+agromet-luban,Hydrotor,HDR,Agromet ZEHS Lubań - malarnia,51.122000,15.277000,EPSG:4326,200,450,2009-12-18,,"Lubań, ul. Esperantystów 2"
+amica-wronki,Amica,AMC,Zakład i magazyny Amica Wronki,52.709000,16.389000,EPSG:4326,200,750,1997-01-01,,"Wronki, ul. Mickiewicza 52"
+stelmet-zielona-gora,Stelmet,STL,Zakład produkcyjny Zielona Góra,51.959000,15.553000,EPSG:4326,200,820,2007-01-01,2020-10-12,"Zielona Góra, ul. Gorzowska 20"
+anser-sochaczew,Anser,,Zakład chemiczny i magazyn Sochaczew,52.202000,20.200000,EPSG:4326,200,450,1991-01-01,,"Sochaczew, ul. Kościńskiego 30"
+lpp-ctpark-buw-ecom,LPP,LPP,"Sąsiednia hala e-commerce LPP, CTPark Bucharest West",44.475650,25.821000,EPSG:4326,300,500,2025-01-01,,"CTPark Bucharest West, A1 km 23, Bolintin-Deal, Giurgiu, Romania"
+mirbud-marywilska44,MIRBUD,MRB,Centrum Handlowe Marywilska 44,52.321100,21.009700,EPSG:4326,50,500,2010-01-01,,"Warszawa, ul. Marywilska 44"

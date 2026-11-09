@@ -1,0 +1,11 @@
+event_id,asset_id,latitude,longitude,event_start_utc,first_disclosure_utc,disclosure_source
+2025-06-29-lpp-bucharest-west,lpp-ctpark-buw-lpp,44.475520,25.817920,,2025-06-30T05:45:00Z,"Bankier/media; ESPI 2025-06-30T14:28:40Z"
+2023-08-20-debica-factory,debica-factory,50.044000,21.388000,2023-08-20T20:00:00Z,,
+2022-10-20-tarczynski-ujezdziec,tarczynski-ujezdziec,51.427000,17.103000,2022-10-20T13:36:00Z,2022-10-21T06:58:00Z,ESPI
+2019-01-04-pfleiderer-baruth,pfleiderer-baruth,52.075603,13.515886,2019-01-04T22:38:00Z,,
+2025-06-18-wielton-wielun,wielton-wielun-z1,51.233000,18.584600,2025-06-17T22:41:00Z,2025-06-18T08:40:00Z,ESPI
+2026-02-27-agromet-luban,agromet-luban,51.122000,15.277000,2026-02-27T17:20:00Z,2026-02-27T19:01:00Z,eLuban.pl
+2017-11-09-amica-wronki,amica-wronki,52.709000,16.389000,,,Moje Wronki
+2020-07-21-stelmet-zielona-gora,stelmet-zielona-gora,51.959000,15.553000,2020-07-21T19:00:00Z,2020-07-21T19:27:43Z,NewsLubuski.pl
+2025-07-20-anser-sochaczew,anser-sochaczew,52.202000,20.200000,2025-07-20T12:15:00Z,,
+2024-05-12-mirbud-marywilska44,mirbud-marywilska44,52.321100,21.009700,2024-05-12T01:30:00Z,2024-05-12T19:59:00Z,ESPI
