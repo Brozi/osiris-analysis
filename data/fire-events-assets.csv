@@ -1,0 +1,11 @@
+event_id,asset_id,latitude,longitude,event_start_utc,first_disclosure_utc,disclosure_source,company,ticker,asset_name,crs,loc_precision_m,site_radius_m,valid_from,valid_to,address
+2025-06-29-lpp-bucharest-west,lpp-ctpark-buw-lpp,44.47552,25.81792,,2025-06-30T05:45:00Z,Bankier/media; ESPI 2025-06-30T14:28:40Z,LPP,LPP,"Centrum dystrybucyjne LPP, CTPark Bucharest West",EPSG:4326,200,650,2025-01-01,,"CTPark Bucharest West, A1 km 23, Bolintin-Deal, Giurgiu, Romania"
+2023-08-20-debica-factory,debica-factory,50.044,21.388,2023-08-20T20:00:00Z,,,Firma Oponiarska Dębica,DBC,Fabryka opon Dębica,EPSG:4326,200,850,1939-01-01,,"Dębica, ul. 1 Maja 1"
+2022-10-20-tarczynski-ujezdziec,tarczynski-ujezdziec,51.427,17.103,2022-10-20T13:36:00Z,2022-10-21T06:58:00Z,ESPI,Tarczyński,TAR,Zakład produkcyjny Ujeździec Mały,EPSG:4326,200,700,1990-01-01,,"Ujeździec Mały 80, 55-100 Trzebnica"
+2019-01-04-pfleiderer-baruth,pfleiderer-baruth,52.075603,13.515886,2019-01-04T22:38:00Z,,,Pfleiderer Group,PFL,Fabryka MDF/HDF Baruth,EPSG:4326,30,900,1997-01-01,,"An der Birkenpfuhlheide 3, 15837 Baruth/Mark, Germany"
+2025-06-18-wielton-wielun,wielton-wielun-z1,51.233,18.5846,2025-06-17T22:41:00Z,2025-06-18T08:40:00Z,ESPI,Wielton,WLT,Zakład nr 1 Wieluń,EPSG:4326,200,600,1996-01-01,,"Wieluń, ul. Fabryczna 8"
+2026-02-27-agromet-luban,agromet-luban,51.122,15.277,2026-02-27T17:20:00Z,2026-02-27T19:01:00Z,eLuban.pl,Hydrotor,HDR,Agromet ZEHS Lubań - malarnia,EPSG:4326,200,450,2009-12-18,,"Lubań, ul. Esperantystów 2"
+2017-11-09-amica-wronki,amica-wronki,52.709,16.389,,,Moje Wronki,Amica,AMC,Zakład i magazyny Amica Wronki,EPSG:4326,200,750,1997-01-01,,"Wronki, ul. Mickiewicza 52"
+2020-07-21-stelmet-zielona-gora,stelmet-zielona-gora,51.959,15.553,2020-07-21T19:00:00Z,2020-07-21T19:27:43Z,NewsLubuski.pl,Stelmet,STL,Zakład produkcyjny Zielona Góra,EPSG:4326,200,820,2007-01-01,2020-10-12,"Zielona Góra, ul. Gorzowska 20"
+2025-07-20-anser-sochaczew,anser-sochaczew,52.202,20.2,2025-07-20T12:15:00Z,,,Anser,,Zakład chemiczny i magazyn Sochaczew,EPSG:4326,200,450,1991-01-01,,"Sochaczew, ul. Kościńskiego 30"
+2024-05-12-mirbud-marywilska44,mirbud-marywilska44,52.3211,21.0097,2024-05-12T01:30:00Z,2024-05-12T19:59:00Z,ESPI,MIRBUD,MRB,Centrum Handlowe Marywilska 44,EPSG:4326,50,500,2010-01-01,,"Warszawa, ul. Marywilska 44"
